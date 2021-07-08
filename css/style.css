@@ -1,0 +1,27 @@
+h1 {
+    color: blue;
+    font-family: verdana;
+    font-size: 360%;
+    text-align: center;
+  }
+  h4{
+      color:blue;
+      font-family: 'Gill Sans';
+      font-size:250%;
+      text-align: center;
+  }
+  p {
+    text-align: left;
+    float: right;
+    color: rgb(3, 3, 3);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 100%;
+    
+    border: 2px solid rgb(166, 7, 240);
+    padding: 25px;
+    float:right;
+  }
+  {.right
+    position: absolute;
+    right: 0px;}
+  
